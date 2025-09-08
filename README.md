@@ -5,9 +5,9 @@ A Streamlit web app that recommends songs using:
 - **Collaborative Filtering (item-item)** using a small dummy ratings set
 
 ## 👤 Author
-**Aryan Sharma**
-- GitHub: https://github.com/aryansharma6836-max
-- LinkedIn: https://www.linkedin.com/in/aryan-sharma-b24151254
+**Shashank Patel**
+- GitHub:https://github.com/shashankpatel03
+- LinkedIn:https://www.linkedin.com/in/shashank-patel-2394902b5
 - Email: aryansharma6836@gmail.com
 
 ## 🚀 How to run locally
