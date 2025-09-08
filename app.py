@@ -15,14 +15,14 @@ def load_data():
 songs, ratings = load_data()
 
 st.title("🎵 Music Recommendation System")
-st.caption("by Aryan Sharma · Content-based + Collaborative (item-item)")
+st.caption("by Shashank Patel · Content-based + Collaborative (item-item)")
 
 with st.sidebar:
     st.header("About")
-    st.write("Built by **Aryan Sharma**")
-    st.write("GitHub: [aryansharma6836-max](https://github.com/aryansharma6836-max)")
-    st.write("LinkedIn: [Aryan Sharma](https://www.linkedin.com/in/aryan-sharma-b24151254)")
-    st.write("Email: aryansharma6836@gmail.com")
+    st.write("Built by **Shashank Patel**")
+    st.write("GitHub: [shashankpatel03](https://github.com/shashankpatel03)")
+    st.write("LinkedIn: [Shashank patel](https://www.linkedin.com/in/shashank-patel-2394902b5)")
+    st.write("Email: shashankpatel.5a7a1@gmail.com")
 
 @st.cache_data
 def build_content_matrix(df: pd.DataFrame):
